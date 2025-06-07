@@ -1,0 +1,6 @@
+[16:20:37] FileParser初始化完成
+[16:20:37] DataProcessor初始化完成
+[16:20:37] OutlierDetector初始化完成
+[16:20:37] 输入文件夹: .
+[16:20:37] 异常检测方法: boxplot
+[16:20:37] 参考通道方法: retention_curve_mse
